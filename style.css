@@ -1,0 +1,27 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans";
+  line-height: 1.6;
+
+  background-image: url("peakpx.jpg");
+  background-repeat: no-repeat;
+  background-size: fixed;
+}
+
+nav a {
+  color: #000000;
+  padding: 10px 15px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background: #ffffff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #333;
+}
